@@ -1,0 +1,7 @@
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\bin\Release\Solution 2.exe.config
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\bin\Release\Solution 2.exe
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\bin\Release\Solution 2.pdb
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\obj\Release\Solution 2.csprojAssemblyReference.cache
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\obj\Release\Solution 2.csproj.CoreCompileInputs.cache
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\obj\Release\Solution 2.exe
+C:\Users\pelsto\Documents\Nova\FizzBuzz\Solution 2\Solution 2\obj\Release\Solution 2.pdb

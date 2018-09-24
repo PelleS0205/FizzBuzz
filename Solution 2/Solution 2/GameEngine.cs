@@ -1,6 +1,6 @@
 using System;
 
-Namespace Core
+namespace Core
 {
     public class GameEngine
     {
@@ -36,13 +36,13 @@ Namespace Core
 	    {
     		string expected = 
 				_counter % 3 == 0 && _counter % 5 == 0 
-				? "FizzBuzz" 
+				? "fizzbuzz" 
 				: _counter % 3 == 0 
-				? "Fizz" 
+				? "fizz" 
 				: _counter % 5 == 0 
-				? "Buzz" : _counter
+				? "buzz" : _counter
 				.ToString();
-			return answer.ToLower() == expected.ToLower();
+			return answer.ToLower() == expected;
 	    }
     }
 }

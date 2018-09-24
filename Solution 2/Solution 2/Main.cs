@@ -27,16 +27,18 @@ public class Program
 		string answer = string.Empty;
 		while (!game.IsFinished())
 		{
-			Console.WriteLine(game.GetNextNumber());
+			Console.WriteLine("-> " + game.GetNextNumber());
 			answer = Console.ReadLine();
 			if (!game.IsCorrectAnswer(answer))
 			{
 				Console.WriteLine("Du tapte :(");
+                Console.Read();
 				return;
 			}
 		}
 
 		// All numbers answered correctly
 		Console.WriteLine("Du vant :)");
+        Console.Read();
 	}
 }

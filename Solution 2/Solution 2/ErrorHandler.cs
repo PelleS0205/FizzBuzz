@@ -1,6 +1,6 @@
 using System;
 
-Namespace Core
+namespace Core
 {
 	public class ErrorHandler
 	{

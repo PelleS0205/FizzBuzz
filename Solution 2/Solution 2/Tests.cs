@@ -1,7 +1,7 @@
 using System;
 using Core;
 
-Namespace Tests
+namespace Tests
 {
     public static class GameEngineTests
     {
